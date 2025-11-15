@@ -1,5 +1,7 @@
-#!bin/bash
-echo "Sai :: hi Narasimha"
-echo "Narasimha :: hi Sai"
-echo "Sai :: rent paycheye"
-echo "Narsimha :: konchem time ivvu"
+#!bin/bash  # here it is called shebang in the linx below command will execute using bin directory  
+A=Sai #here after no space same after = no space 
+B=Narasimha
+echo "$A :: hi $B"
+echo "$B :: hi $A"
+echo "$A :: rent paycheye"
+echo "$B :: konchem time ivvu"
